@@ -4,7 +4,7 @@ This project focuses on analyzing tourism data to understand user travel behavio
 
 The goal of this project is to transform tourism data into meaningful insights that help improve user experience and decision-making for tourism platforms.
 
-> “Transforming tourism data into intelligent travel insights.”
+ “Transforming tourism data into intelligent travel insights.”
 
 ---
 
